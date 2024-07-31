@@ -104,7 +104,7 @@ section{
     display:none;
 
 }
-/*home tab*/
+
 .home {
     
     margin: 10rem auto;
@@ -145,7 +145,7 @@ section{
     line-height:2;
     text-transform: initial;
 }
-/*book form*/
+
 .book-form {
     width: 80%;
     margin: 1rem auto;
@@ -200,7 +200,7 @@ section{
 
     
 }
-/*about section*/
+
 .about{
     display:flex;
     align-items: center;
@@ -250,7 +250,7 @@ section{
     margin-bottom: .2rem;
     text-transform: initial;
 }
-/*destination here*/
+
 .destination{
     align-items: center;
     padding:10rem;
@@ -331,7 +331,9 @@ section{
 
 
 }
-/*service section*/
+
+
+
 .services{
     align-items: center;
     padding:10rem;
@@ -394,7 +396,9 @@ section{
     overflow:hidden;
 
 }
-/*gallery section*/
+
+
+
 .gallery{
     align-items: center;
     padding:10rem;
@@ -448,7 +452,9 @@ section{
     color:#fff;
 
 }
-/*reveiw section*/
+
+
+
 .review{
     display:flex;
     align-items: center;
@@ -513,7 +519,9 @@ section{
 
 
 
-/*banner section*/
+
+
+
 
 .banner {
     background: url("images/wallpaper\ home.jpg") no-repeat;
@@ -545,7 +553,8 @@ section{
     
 }
 
-/*footer section*/
+
+
 
 
 .footer .box-container{
@@ -648,7 +657,8 @@ section{
 
 
 }
-/*review section*/
+
+
 .review{
     display:flex;
     align-items:center;
