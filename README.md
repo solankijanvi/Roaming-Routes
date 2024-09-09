@@ -1,4 +1,19 @@
-This project is a tour and travel website aimed at providing users with information about various travel destinations, services options. It is developed using HTML, CSS, and JavaScript.
+# Roaming Routes 🗺️
+
+Welcome to **Roaming Routes**! A responsive travel website for exploring new destinations. 🚀
+
+---
 
 ## 🌐 Live Demo
-Experience the live version here: [Roaming Routes 🚀](https://solankijanvi.github.io/Roaming-Routes/)
+Experience the live version here: [**Roaming Routes**](https://solankijanvi.github.io/Roaming-Routes/) 🚀
+
+---
+
+
+
+## 💻 Technologies Used
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+Enjoy the adventure of building the future of travel websites with **Roaming Routes**!
