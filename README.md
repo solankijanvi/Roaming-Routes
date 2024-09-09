@@ -8,7 +8,7 @@ Welcome to **Roaming Routes**! A responsive travel website for exploring new des
 Experience the live version here: [**Roaming Routes**](https://solankijanvi.github.io/Roaming-Routes/) 🚀
 
 <a href="https://solankijanvi.github.io/Roaming-Routes/" target="_blank">
-  <img src="https://img.shields.io/badge/-Live%20Demo-brightgreen?style=flat-square&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Live%20Demo-blue?style=flat-square&logo=google-chrome&logoColor=white" />
 </a>
 
 
